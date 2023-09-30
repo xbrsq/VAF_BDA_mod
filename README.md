@@ -3,5 +3,5 @@ custom personal mod for BDArmory
 
 I am adding things because I want to.
 
-Adds new missiles, radars, and flags.
+Adds new missiles, bombs, radars, and flags.
 adds RAM coating parts.
