@@ -1,5 +1,5 @@
 # VAF_BDA_mod
-A custom personal mod for BDArmory
+A custom mod for BDArmory
 
 I am adding things because I want to.
 
